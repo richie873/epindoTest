@@ -7,6 +7,7 @@ Xampp
 2. Install Xampp
 3. Start Apache and Mysql
 4. Open http://localhost:3000/
+5. Import database mysql from database/backup/manufaktur_db
 
 Laragon
 1. Clone repository
@@ -15,3 +16,4 @@ Laragon
 4. Start all on Laragon
 5. Click Right on laragon
 6. wwww/manufaktur-app
+7. Import database mysql from database/backup/manufaktur_db
