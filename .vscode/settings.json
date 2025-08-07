@@ -1,0 +1,14 @@
+{
+  "php.validate.executablePath": "E:/laragon/bin/php/php-7.4.33-nts-Win32-vc15-x64/php.exe",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell with PHP 7.4": {
+      "source": "PowerShell",
+      "args": [
+        "-NoExit",
+        "-Command",
+        "$env:PATH='E:\\laragon\\bin\\php\\php-7.4.33-nts-Win32-vc15-x64;' + $env:PATH"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell with PHP 7.4"
+}
