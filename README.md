@@ -17,3 +17,9 @@ Laragon
 5. Click Right on laragon
 6. wwww/manufaktur-app
 7. Import database mysql from database/backup/manufaktur_db
+
+Projek ini mengerjakan fitur Incoming, Produksi dan Invoice. Fitur ini dirancang dengan konsep CRUD menggunakan framework Laravel 7 dan MySQL sebagai database.
+
+1. Halaman Incoming untuk input data bahan baku yang datang dari customer
+2. Halaman Produksi untuk input data bahan baku yang akan diolah menjadi produk jadi
+3. Halaman Invoice untuk input data penjualan produk jadi
